@@ -15,3 +15,4 @@ The official TeXlipse distribution can be found at http://texlipse.sourceforge.n
 
  * Go to `Preferences->TeXlipse->Builder settings` and add the following argument to PdfLatex: `-synctex=1`
  * To navigate back from compiled PDFs in Skim, go to Skim's `Preferences->Sync`, change Preset to `Custom`, set Command to `curl` and Arguments to `localhost:6789?"%file"-"%line"`
+ * Cmd+Shift+Click on the PDF document in Skim to go back to the respective source in TeXlipse
