@@ -13,4 +13,4 @@ The official TeXlipse distribution can be found at http://texlipse.sourceforge.n
 
 ## Navigating from PDF->TeX using Skim
 
-To navigate back from compiled PDFs in Skim, go to Skim's Preferences->Sync, change Preset to Custom and enter the following in the Arguments field `localhost:6789?"%file"-"%line"`
+To navigate back from compiled PDFs in Skim, go to Skim's Preferences->Sync, change Preset to Custom, set Command to `curl` and enter Arguments to `localhost:6789?"%file"-"%line"`
