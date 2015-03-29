@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/net.sourceforge.texlipse_1.4.5.201303300929.jar" id="net.sourceforge.texlipse" version="1.4.5.201303300929">
+      <category name="Texlipse"/>
+   </feature>
+   <category-def name="Texlipse" label="Texlipse"/>
+</site>
