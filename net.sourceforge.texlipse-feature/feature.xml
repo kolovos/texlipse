@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="net.sourceforge.texlipse"
+      id="net.sourceforge.texlipse.feature"
       label="TeXlipse"
       version="1.4.5.qualifier"
       provider-name="texlipse.sf.net"

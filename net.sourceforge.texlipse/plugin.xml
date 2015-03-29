@@ -1266,4 +1266,10 @@ ${cursor}
             label="Latex">
       </engine>
    </extension>
+      <extension
+         point="org.eclipse.ui.startup">
+      <startup
+            class="net.sourceforge.texlipse.FileOpener">
+      </startup>
+   </extension>
 </plugin>
