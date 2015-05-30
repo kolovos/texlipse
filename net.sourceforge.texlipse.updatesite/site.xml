@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/net.sourceforge.texlipse.feature_1.4.5.201503291925.jar" id="net.sourceforge.texlipse.feature" version="1.4.5.201503291925">
+   <feature url="features/net.sourceforge.texlipse.feature_1.4.5.201505302055.jar" id="net.sourceforge.texlipse.feature" version="1.4.5.201505302055">
       <category name="Texlipse"/>
    </feature>
    <category-def name="Texlipse" label="Texlipse"/>
