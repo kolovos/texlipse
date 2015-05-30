@@ -54,6 +54,8 @@ public class TexPerspectiveFactory implements IPerspectiveFactory {
         //Add project and Latex file creation wizards to menu
         layout.addNewWizardShortcut(ID_PROJECT_WIZARD);
         layout.addNewWizardShortcut(ID_LATEX_FILE_WIZARD);
+		layout.addNewWizardShortcut("org.eclipse.ui.wizards.new.file");
+        layout.addNewWizardShortcut("org.eclipse.ui.wizards.new.folder");
     }
 
 }
