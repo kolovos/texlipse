@@ -9,6 +9,7 @@ The official TeXlipse distribution can be found at http://texlipse.sourceforge.n
  * Import from source or install from the following update site: https://raw.githubusercontent.com/kolovos/texlipse/master/net.sourceforge.texlipse.updatesite/site.xml
  * Turn on soft-wrapping through `Preferences->TeXlipse->Editor->Use soft wrapping`
  * Point to TeX distribution through `Preferences->TeXlipse->Builded settings`
+   * e.g. /usr/local/texlive/2013/bin/universal-darwin
  * Turn off line highlighting through `Preferences->General->Editors->Text Editors->Highlight current line`
 
 ## Navigating from PDF->TeX using Skim
